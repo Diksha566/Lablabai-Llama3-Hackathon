@@ -2,6 +2,15 @@
 # Team name: 8bit Invaders
 # Project name: TaleCraft
 
+Demo link: https://lnkd.in/g3KHqF9k
+
+Download app: https://lnkd.in/gvaNMnYv
+
+TaleCraft is an innovative app that transforms stories into captivating, animated visuals to cater to educational, creative, and global audiences. The application revolutionizes storytelling by converting text into dynamic, animated visuals, allowing users to create, explore, and engage with interactive narratives. Its seamless integration with educational curricula and visually-rich modules makes it ideal for enhancing learning and addressing corporate training needs. Our future plans involve expanding content through strategic partnerships, integrating augmented reality for immersive experiences, and customizing the app for global markets, leveraging advanced AI technology to deliver personalized and enhanced story creation.
+
+In the realm of personalized narratives, TaleCraft offers a unique and immersive experience. Users can input their own text and witness it being brought to life through dynamic animation, fostering creativity and literacy across all age groups.
+
+
 <!-- Contributor 1 -->
 <a href="https://github.com/HarishMahto">
   <img src="https://github.com/HarishMahto.png" width="50" height="50" alt="Contributor 1">
@@ -55,5 +64,6 @@ Our app leverages Llama 3 to revolutionize storytelling by converting texts into
 - Expansion: Integrate into educational institutions, corporate training, and publishing.
 - Technological Advancements: Enhanced AI features and AR integration.
 - Global Reach: Localize content for international markets
+
 
 
